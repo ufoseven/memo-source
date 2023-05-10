@@ -2,7 +2,7 @@
 # 部署到 github pages 脚本
 # 错误时终止脚本
 set -e
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mDeploying updates to GitHub and Gitlab...\033[0m"
 
 export BLOG_BASE="/home/seven/Memo" # 设成你的 hugo 根目录
 
